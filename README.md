@@ -4,5 +4,5 @@
 <h3>This website is made using HTML, CSS and JavaScript.</h3><br>
 
 <p>Click on Preview to see website</p>
-<a href="https://atulsinghportfolio.netlify.app" target="_blank">Preview</a> 
+<a href="https://atulsinghraj.netlify.app/" target="_blank">Preview</a> 
 
